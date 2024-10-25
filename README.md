@@ -1,3 +1,5 @@
+![C# Logo](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
+
 # README - C# Game Collection
 
 Welcome to my collection of beginner-friendly games created using C#! Currently, I have developed two classic games: **Flappy Bird** and **Snake Game**. These projects are designed to be easy to understand and serve as excellent learning resources for anyone looking to get started with game development in C#. 
