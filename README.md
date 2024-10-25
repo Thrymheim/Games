@@ -64,7 +64,7 @@ To get started with the games, follow these steps:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source 
 
 ## Contact
 
