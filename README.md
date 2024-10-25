@@ -64,14 +64,10 @@ To get started with the games, follow these steps:
 - **Programming Language:** C#
 - **Game Framework:** Visual Studio 2022 
 
-## License
-
-This project is open source 
-
 ## Contact
 
 If you have any questions, comments, or suggestions, feel free to reach out!
-
+- **Instructor:** [Maziyar kolagar]
 - **Email:** [maziyarkolagar@gmail.com]
 
 Happy Gaming! Enjoy exploring these projects and feel free to modify and learn!
