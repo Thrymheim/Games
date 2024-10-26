@@ -1,0 +1,20 @@
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\bin\Debug\Flappy bird.exe.config
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\bin\Debug\Flappy bird.exe
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\bin\Debug\Flappy bird.pdb
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\obj\Debug\Flappy_bird.Form1.resources
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\obj\Debug\Flappy_bird.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.exe
+C:\Users\ASUS\Desktop\Maziyar\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.pdb
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\bin\Debug\Flappy bird.exe.config
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\bin\Debug\Flappy bird.exe
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\bin\Debug\Flappy bird.pdb
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\obj\Debug\Flappy_bird.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.exe
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\obj\Debug\Flappy bird.pdb
+C:\Users\ASUS\Desktop\Maziyar\College\C#\Flappy bird\Flappy bird\obj\Debug\Flappy_bird.Form1.resources
